@@ -20,19 +20,19 @@ I must emphasize that using such techniques for malicious purposes is unethical 
 
 ## Usage
 1. Place the image file (JPG format) you want to hide the payload in within the project directory.
-2. Run the Python script `badjpg.py`.
+2. Run the Python script `steganography.py`.
 3. Follow the prompts to specify the image file path, the payload to hide, and the output file name.
 4. The script will then encode the payload into the image and save the resulting image with the hidden payload.
 
 To extract the hidden payload from the image:
-1. Run the Python script `badjpg.py`.
+1. Run the Python script `steganography.py`.
 2. Choose the option to extract the payload.
 3. Provide the path to the image file with the hidden payload.
 4. The script will reveal the hidden payload from the image.
 
 ## Example
 ```bash
-python badjpg.py
+python steganography.py
 ```
 ## Requirements
 1. Python 3.x
