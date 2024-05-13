@@ -13,6 +13,10 @@ I must emphasize that using such techniques for malicious purposes is unethical 
     ```bash
     pip install -r requirements.txt
     ```
+3. Install the `stegano` library if you have not already:
+   ```bash
+   pip install stegano
+   ```
 
 ## Usage
 1. Place the image file (JPG format) you want to hide the payload in within the project directory.
