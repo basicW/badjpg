@@ -29,3 +29,10 @@ To extract the hidden payload from the image:
 ## Example
 ```bash
 python badjpg.py
+```
+## Requirements
+1. Python 3.x
+2. `stegano` library
+
+## Acknowledgements
+This project uses the stegano library.
