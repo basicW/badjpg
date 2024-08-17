@@ -16,7 +16,7 @@ This code requires two external libraries:
 1. stegano: This library likely provides functions like hide and reveal for manipulating image data and embedding messages using LSB steganography.  
 2. Pillow (PIL Fork): Pillow is a popular library for image processing in Python. It offers functions like Image.open and save for working with image files in various formats.
    ## Note:
-Depending on the specific implementation of stegano, the actual function names might differ slightly. Consult the library's documentation for precise details.
+Depending on the specific implementation of stegano, the actual function names might differ slightly. Consult the library's documentation for precise details. I'm no expert.
 Make sure you install the Pillow library, not the original PIL (Python Imaging Library).  
 ## Installation
 1. Clone the repository:
